@@ -39,7 +39,7 @@ CloudLaunch is a lightweight platform designed to showcase a basic company websi
 
 ### Static Website Link
 
-- S3 static website endpoint URL: `[INSERT YOUR S3 WEBSITE URL HERE]`
+- S3 static website endpoint URL: `[http://cloudlaunch-site-bucket-5416.s3-website-eu-west-1.amazonaws.com]`
 
 ---
 
