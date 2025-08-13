@@ -139,6 +139,7 @@ CloudLaunch is a lightweight platform designed to showcase a basic company websi
     }
   ]
 }
+```
 
 ## Additional Information
 
@@ -147,7 +148,7 @@ CloudLaunch is a lightweight platform designed to showcase a basic company websi
 * **IAM User Credentials:**
    * Username: `cloudlaunch-user`
   * Password:
-  BY{D8|7{                                                                                             /}
+  BY{D8|7{                                                                             
 
 ## Notes and Observations
 
